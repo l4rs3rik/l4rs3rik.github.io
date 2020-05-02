@@ -1,20 +1,23 @@
-# ABL skins
+# ABL3 skins
 
-## Instruction 
-Download, unzip and copy the folder and the .abl3skin file found in the ZIP-file to your ABL3.2 
-installation folder.
+```
+1. Download and unzip
 
-Windows:
-c:\Users\<your user name>\Documents\AudioRealism\ABL3\
+2. Copy the .abl3skin file and the folder found in the zip-file to the ABL installation folder.
 
-MacOs:
+On Windows the ABL3 installation folder is:
+c:\Users\<username>\Documents\AudioRealism\ABL3
+
+On MacOs the default library path is:
 /Library/Application Support/AudioRealism/ABL3/
-	
+
+3. Run ABL3 and choose the "select skin" from the application menu.
+```
 ## SilverBox3
 Download: [abl32-skin-silverbox3.zip](abl32-skin-silverbox3.zip)
 ![preview](img/abl32-skin-silverbox3.jpg)
 
-## R4ck5
+## R4CK5K1N
 Download: [abl3-skin-r4ck5.zip](abl3-skin-r4ck5.zip)
 ![Preview](img/abl3-skin-r4ck5.jpg)
 
