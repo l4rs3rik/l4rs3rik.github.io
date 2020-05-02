@@ -1,31 +1,35 @@
 # ABL skins
+
 ## Instruction 
-Download, unzip and copy the folder and .abl3skin file found in the ZIP-file to your ABL3.2 
+Download, unzip and copy the folder and the .abl3skin file found in the ZIP-file to your ABL3.2 
 installation folder.
 
-The default path to the ABL3 installation on Windows is
+Default folder:
 
-	C:\Users\<your user name>\Documents\AudioRealism\ABL3\
-
-And on MacOS:
-
-	/Library/Application Support/AudioRealism/ABL3/
+	Windows: C:\Users\<your user name>\Documents\AudioRealism\ABL3\
+	MacOS: /Library/Application Support/AudioRealism/ABL3/
 	
-## Previews
-abl3-skin-r4ck5
-![R4ck5 preview](img/abl3-skin-r4ck5.jpg)
+## Downloads
 
-abl31-skin-alubox
-![ALUBOX preview](img/abl31-skin-alubox.jpg)
+### R4ck5
+Download: [abl3-skin-r4ck5.zip](abl3-skin-r4ck5.zip)
+![Preview](img/abl3-skin-r4ck5.jpg)
 
-abl32-skin-silverbox3
-![SilverBox3 preview](img/abl32-skin-silverbox3.jpg)
+### AluBox
+![preview](img/abl31-skin-alubox.jpg)
+---
+### SilverBox3
+![preview](img/abl32-skin-silverbox3.jpg)
 
-abl32-skin-silverbox3-gray
-![SilverBox3 preview](img/abl32-skin-silverbox3-gray.jpg)
+---
+### SilverBox3 - Grey
+![preview](img/abl32-skin-silverbox3-gray.jpg)
 
-abl32-skin-silverbox3-green
-![SilverBox3 preview](img/abl32-skin-silverbox3-green.jpg)
+---
+### SilverBox3 - Green
+![preview](img/abl32-skin-silverbox3-green.jpg)
 
-abl32-skin-silverbox3-blue
-![SilverBox3 preview](img/abl32-skin-silverbox3-blue.jpg)
+---
+### SilverBox3 - Blue
+![preview](img/abl32-skin-silverbox3-blue.jpg)
+
