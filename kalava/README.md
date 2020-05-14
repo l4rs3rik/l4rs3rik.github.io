@@ -1,18 +1,28 @@
-### Analog Rytm - Samples
+# Kalava Archive
+
+### Analog Rytm 
 Source:		Analog Rytm (mk1)
 
 Format:		WAV 24bit 48kHz mono
 
-### Analog Four - Samples
+Download: [ElektronAnalogRytm-samples.zip](ElektronAnalogRytm-samples.zip)
+
+### Analog Four
 Source: 	Analog Four (mk1)
 
 Format:		WAV 24bit 48kHz mono
 
-### Analog Four - Reverb impulse responses
-Source: 	Analog Four (mk1) "Supervoid" reverb
+Download: [ElektronAnalogFour-samples.zip](ElektronAnalogFour-samples.zip)
+
+### Analog Four (Reverb impulse responses)
+Source: 	Analog Four (mk1) built in "Supervoid" reverb
 
 Format:		24bit 48000kHz stereo
 
-### HeartBeat - Samples
+Download: 	[ElektronAnalogFour-impulses.zip](ElektronAnalogFour-impulses.zip)
+
+### HeartBeat
 Source: SoftTube HeartBeat (drum synthesis plug-in)
+
+Download: [Heartbeat-samples.zip](Heartbeat-samples.zip)
 
