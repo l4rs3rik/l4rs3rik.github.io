@@ -2,7 +2,7 @@
 ```
 
 Disclaimer: 
-- This is a file replacement hack a hack, not supported by Roland. It's a good idea to backup the
+- This is a file replacement hack, so not supported by Roland. It's a good idea to backup the
 original files, makes it fast and easy to go back.
 
 - I'm on Windows myself and I have no idea if this works on the Mac version. (Might be some library folder 
