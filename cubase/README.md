@@ -1,13 +1,9 @@
 # Steinberg Cubase 
 
 ```
-The Cubase Splash screen is a png image file so you can easily make a custom 
+Steinberg Cubase startup splash screen graphics are stored here:
 
-In a default setup of Cubase the startup splash screen graphics are stored here:
 C:\Program Files\Steinberg\Cubase\Startup\
-
-There are two versions of the same graphics depending on your screen resolution. To be on the safe side it's best to download both and let Cubase decide which one to use.
-
 ```
 ## Atari Cubase 
 
