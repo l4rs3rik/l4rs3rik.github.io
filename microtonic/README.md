@@ -1,7 +1,7 @@
 # Microtonic skin
 
 ```
-Checkout the Sonic Charge forums for details.
+For information how to install go visit the Sonic Charge forums. 
 ```
 ## Tonic Dark
 Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
