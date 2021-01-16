@@ -1,13 +1,33 @@
 # Microtonic skin
 
 ```
-For information how to install go visit the Sonic Charge forums. 
+Instructions:
+
+First, make sure you have the lastest version of Microtonic installed. 
+
+There are two ways of loading skins in Microtonic. Either way you need
+to find the location of the Microtonic.vst (or Microtonic.component). 
+
+In this folder you have two options. 
+
+1. Create a folder named "Microtonic V3.3 Resources" and put the files 
+   included in the skin here.
+  
+2. Create a text file named "Microtonic V3.3 Resources Path.txt" and in 
+this text file write the full path to where you have the resource files 
+stored.
+
+For more details and information visit the Sonic Charge forum. The thread
+https://soniccharge.com/forum/topic/1777-microtonic-v3-3-skinning is a good
+start.
+
 ```
 ## Tonic Dark
 
 ```
 Revision history:
-  2021-01-13: Bugfix of buttons, improved pattern selection graphics.
+  2021-01-13: Bugfix of buttons, improved pattern selection 
+              graphics.
   2021-01-12: First version
   
 ```
