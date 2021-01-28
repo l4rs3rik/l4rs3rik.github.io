@@ -1,5 +1,4 @@
 # Microtonic skin
-
 ```
 Instructions:
 
@@ -22,6 +21,17 @@ https://soniccharge.com/forum/topic/1777-microtonic-v3-3-skinning is a good
 start.
 
 ```
+## Tonic Silver
+
+```
+Revision history:
+  2021-01-28: First version.
+  
+```
+Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
+![preview](larserik_tonicSilver_preview.jpg)
+
+
 ## Tonic Dark
 
 ```
