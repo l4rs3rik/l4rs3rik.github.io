@@ -2,8 +2,6 @@
 ```
 Instructions:
 
-First, make sure you have the lastest version of Microtonic installed. 
-
 There are two ways of loading skins in Microtonic. Either way you need
 to find the location of the Microtonic.vst (or Microtonic.component). 
 
