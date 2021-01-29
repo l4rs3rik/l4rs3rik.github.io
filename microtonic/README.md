@@ -1,4 +1,4 @@
-# Microtonic skin
+# Microtonic skins
 ```
 Instructions:
 
