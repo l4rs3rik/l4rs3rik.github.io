@@ -25,6 +25,7 @@ start.
 
 ```
 Revision history:
+  2021-01-29: Pattern button bugfix.
   2021-01-28: First version.
   
 ```
