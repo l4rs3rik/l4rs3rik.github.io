@@ -23,6 +23,7 @@ start.
 
 ```
 Revision history:
+  2021-02-01: Updated mute-button look.
   2021-01-29: Pattern button bugfix.
   2021-01-28: First version.
   
