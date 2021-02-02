@@ -23,6 +23,8 @@ start.
 
 ```
 Revision history:
+  2021-02-02: New mute-button, improved channel button colors and
+              license information font made smaller.
   2021-02-01: Updated mute-button look.
   2021-01-29: Pattern button bugfix.
   2021-01-28: First version.
