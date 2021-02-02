@@ -38,6 +38,8 @@ Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 
 ```
 Revision history:
+  2021-02-02: Improved channel button colors and license information 
+              font made smaller.
   2021-01-13: Bugfix of buttons, improved pattern selection 
               graphics.
   2021-01-12: First version
