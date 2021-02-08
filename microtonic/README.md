@@ -34,6 +34,17 @@ Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 ![preview](larserik_tonicSilver_preview.jpg)
 
 
+## Tonic Blue Steel
+
+```
+Revision history:
+  2021-02-08: First version.              
+  
+```
+Download: [larserik_tonicSilver.zip](larserik_tonicBlueSteel.zip)
+![preview](larserik_tonicBlueSteel_preview.jpg)
+
+
 ## Tonic Dark
 
 ```
