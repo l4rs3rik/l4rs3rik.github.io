@@ -19,8 +19,9 @@ https://soniccharge.com/forum/topic/1777-microtonic-v3-3-skinning is a good
 start.
 
 ```
-## Tonic Silver
 
+
+## Tonic Silver
 ```
 Revision history:
   2021-02-02: New mute-button, improved channel button colors and
@@ -34,19 +35,7 @@ Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 ![preview](larserik_tonicSilver_preview.jpg)
 
 
-## Tonic Blue Steel
-
-```
-Revision history:
-  2021-02-08: First version.              
-  
-```
-Download: [larserik_tonicSilver.zip](larserik_tonicBlueSteel.zip)
-![preview](larserik_tonicBlueSteel_preview.jpg)
-
-
 ## Tonic Dark
-
 ```
 Revision history:
   2021-02-02: Improved channel button colors and license information 
@@ -59,3 +48,12 @@ Revision history:
 
 Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
 ![preview](larserik_tonicDark_preview.jpg)
+
+
+## Tonic Blue Steel
+```
+Revision history:
+  2021-02-08: First version.
+```
+Download: [larserik_tonicSilver.zip](larserik_tonicBlueSteel.zip)
+![preview](larserik_tonicBlueSteel_preview.jpg)
