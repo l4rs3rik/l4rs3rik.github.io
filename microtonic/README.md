@@ -1,6 +1,6 @@
 # Microtonic skins
-```
-Instructions:
+
+## Instructions:
 
 There are two ways of loading skins in Microtonic. Either way you need
 to find the location of the Microtonic.vst (or Microtonic.component). 
@@ -17,42 +17,36 @@ stored.
 For more details and information visit the Sonic Charge forum. The thread
 https://soniccharge.com/forum/topic/1777-microtonic-v3-3-skinning is a good
 start.
-```
+
 
 ## Tonic Silver
-```
 Revision history:
   2021-02-02: New mute-button, improved channel button colors and
               license information font made smaller.
   2021-02-01: Updated mute-button look.
   2021-01-29: Pattern button bugfix.
   2021-01-28: First version.
-  
-```
+
 Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 ![preview](larserik_tonicSilver_preview.jpg)
 
 
 ## Tonic Blue Steel
-```
 Revision history:
   2021-02-08: First version.
-```
+
 Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
 ![preview](larserik_tonicBlueSteel_preview.jpg)
 
 
 ## Tonic Dark
-```
 Revision history:
   2021-02-02: Improved channel button colors and license information 
               font made smaller.
   2021-01-13: Bugfix of buttons, improved pattern selection 
               graphics.
   2021-01-12: First version
-  
-```
-Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
 
+Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
 ![preview](larserik_tonicDark_preview.jpg)
 
