@@ -55,5 +55,5 @@ Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
 Revision history:
   2021-02-08: First version.
 ```
-Download: [larserik_tonicSilver.zip](larserik_tonicBlueSteel.zip)
+Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
 ![preview](larserik_tonicBlueSteel_preview.jpg)
