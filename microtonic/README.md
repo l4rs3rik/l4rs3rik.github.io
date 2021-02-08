@@ -17,9 +17,7 @@ stored.
 For more details and information visit the Sonic Charge forum. The thread
 https://soniccharge.com/forum/topic/1777-microtonic-v3-3-skinning is a good
 start.
-
 ```
-
 
 ## Tonic Silver
 ```
@@ -35,6 +33,15 @@ Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 ![preview](larserik_tonicSilver_preview.jpg)
 
 
+## Tonic Blue Steel
+```
+Revision history:
+  2021-02-08: First version.
+```
+Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
+![preview](larserik_tonicBlueSteel_preview.jpg)
+
+
 ## Tonic Dark
 ```
 Revision history:
@@ -45,15 +52,7 @@ Revision history:
   2021-01-12: First version
   
 ```
-
 Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
+
 ![preview](larserik_tonicDark_preview.jpg)
 
-
-## Tonic Blue Steel
-```
-Revision history:
-  2021-02-08: First version.
-```
-Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
-![preview](larserik_tonicBlueSteel_preview.jpg)
