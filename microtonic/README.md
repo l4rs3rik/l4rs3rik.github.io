@@ -38,6 +38,13 @@ Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
 ![preview](larserik_tonicBlueSteel_preview.jpg)
 
 
+## Tonic Magnum
+Revision history:
+  - 2021-02-10: First version.
+Download: [larserik_tonicMagnum.zip](larserik_tonicMagnum.zip)
+![preview](larserik_tonicMagnum_preview.jpg)
+
+
 ## Tonic Dark
 Revision history:
   - 2021-02-02: Improved channel button colors and license information font made smaller.
@@ -46,4 +53,3 @@ Revision history:
   
 Download: [larserik_tonicDark.zip](larserik_tonicDark.zip)
 ![preview](larserik_tonicDark_preview.jpg)
-
