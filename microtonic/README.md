@@ -21,6 +21,7 @@ start.
 
 ## Tonic Silver
 Revision history:
+  - 2021-02-15: Knobs improved contrast, new displayfont, softer licence font, slider backdrops tweaked, new knob markings, new morphleds.
   - 2021-02-02: New mute-button, improved channel button colors and license information font made smaller.
   - 2021-02-01: Updated mute-button look.
   - 2021-01-29: Pattern button bugfix.
@@ -32,6 +33,7 @@ Download: [larserik_tonicSilver.zip](larserik_tonicSilver.zip)
 
 ## Tonic Blue Steel
 Revision history:
+  - 2021-02-15: Knobs improved contrast, new displayfont, slider backdrops tweaked, new knob markings, new morphleds.
   - 2021-02-08: First version.
 
 Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
@@ -40,6 +42,7 @@ Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
 
 ## Tonic Magnum
 Revision history:
+  - 2021-02-15: Knobs improved contrast, new displayfont, slider backdrops tweaked, new knob markings, new morphleds.
   - 2021-02-10: First version.
   
 Download: [larserik_tonicMagnum.zip](larserik_tonicMagnum.zip)
