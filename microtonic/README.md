@@ -52,6 +52,7 @@ Download: [larserik_tonicMagnum.zip](larserik_tonicMagnum.zip)
 
 ## Tonic Dark
 Revision history:
+  - 2021-02-15: New displayfont.
   - 2021-02-02: Improved channel button colors and license information font made smaller.
   - 2021-01-13: Bugfix of buttons, improved pattern selection graphics.
   - 2021-01-12: First version
