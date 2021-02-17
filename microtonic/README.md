@@ -42,6 +42,7 @@ Download: [larserik_tonicBlueSteel.zip](larserik_tonicBlueSteel.zip)
 
 ## Tonic Magnum
 Revision history:
+  - 2021-02-17: Channel note graphics bugfix. 
   - 2021-02-15: Knobs improved contrast, new displayfont, slider backdrops tweaked, new knob markings, new morphleds.
   - 2021-02-10: First version.
   
