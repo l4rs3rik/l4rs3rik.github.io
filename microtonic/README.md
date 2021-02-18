@@ -50,6 +50,14 @@ Download: [larserik_tonicMagnum.zip](larserik_tonicMagnum.zip)
 ![preview](larserik_tonicMagnum_preview.jpg)
 
 
+## Tonic Green
+Revision history:
+  - 2021-02-18: First version
+
+Download: [larserik_tonicGreen.zip](larserik_tonicGreen.zip)
+![preview](larserik_tonicGreen_preview.jpg)
+
+
 ## Tonic Dark
 Revision history:
   - 2021-02-15: New displayfont.
