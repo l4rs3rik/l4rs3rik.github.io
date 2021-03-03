@@ -1,12 +1,8 @@
 # Microtonic skins
 
-In the Microtonic v3.3.2 public beta the skin format has changed and the good
-people at soniccharge have created a public repository for skins.
-
-I have submitted the skins to their repository and hoping they will accept my
-pull request. 
-
-https://github.com/fredli74/microtonic-skins
+In the Microtonic v3.3.2 public beta (and later versions) the skin format has changed. So the
+resources that used to be here are now moved to a github repository setup by the good people 
+over at sonic charge: [fredli74/microtonic-skins](https://github.com/fredli74/microtonic-skins).
 
 Previews of the skins:
 
