@@ -7,7 +7,7 @@ over at sonic charge: [fredli74/microtonic-skins](https://github.com/fredli74/mi
 Previews of the skins:
 
 ## tonica
-![preview](tonica.jpg)
+![preview](tonica_preview.jpg)
 
 ## dark0ne
-![preview](dark0ne.jpg)
+![preview](dark0ne_preview.jpg)
