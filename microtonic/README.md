@@ -6,14 +6,8 @@ over at sonic charge: [fredli74/microtonic-skins](https://github.com/fredli74/mi
 
 Previews of the skins:
 
-## tonicA
-![preview](tonicA.jpg)
-
-## tonicB
-![preview](tonicB.jpg)
-
-## tonicR
-![preview](tonicR.jpg)
+## tonica
+![preview](tonica.jpg)
 
 ## dark0ne
 ![preview](dark0ne.jpg)
