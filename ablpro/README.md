@@ -7,7 +7,7 @@ Instructions:
 2.Copy the .skn file and the amigaGfx folder from the zip-file to the ABLPro installation folder.
 
 On Windows the ABL3 installation folder is:
-c:\Users\<username>\Documents\AudioRealism\ABL Pro\
+c:\Users\your-user-name\Documents\AudioRealism\ABL Pro\
 
 3.Run ABL Pro and choose the "select skin" from the application menu.
 
