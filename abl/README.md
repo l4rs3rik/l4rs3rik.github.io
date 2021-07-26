@@ -1,4 +1,4 @@
-# ABL3 skins
+# ABL3 skins 
 
 Instructions:
 
@@ -14,27 +14,19 @@ On MacOs the default library path is:
 
 3.Run ABL3 and choose the "select skin" from the application menu.
 
-## SilverBox3
-Download: [abl32-skin-silverbox3.zip](abl32-skin-silverbox3.zip)
-![preview](img/abl32-skin-silverbox3.jpg)
+## SilverBox-1
+Download: [ABL3-SilverBox-1.zip](ABL3-SilverBox-1.zip)
+![preview](abl3-silverbox-1-preview.jpg)
 
-## R4CK5K1N
-Download: [abl3-skin-r4ck5.zip](abl3-skin-r4ck5.zip)
-![Preview](img/abl3-skin-r4ck5.jpg)
+## SilverBox-2
+Download: [ABL3-SilverBox-2.zip](ABL3-SilverBox-2.zip)
+![preview](abl3-silverbox-2-preview.jpg)
 
-## AluBox
-Download: [abl31-skin-alubox.zip](abl31-skin-alubox.zip)
-![preview](img/abl31-skin-alubox.jpg)
+## SilverBox-3
+Download: [ABL3-SilverBox-3.zip](ABL3-SilverBox-3.zip)
+![preview](abl3-silverbox-3-preview.jpg)
 
-## SilverBox3 - Grey
-Download: [abl32-skin-silverbox3-gray.zip](abl32-skin-silverbox3-gray.zip)
-![preview](img/abl32-skin-silverbox3-gray.jpg)
-
-## SilverBox3 - Green
-Download: [abl32-skin-silverbox3-green.zip](abl32-skin-silverbox3-green.zip)
-![preview](img/abl32-skin-silverbox3-green.jpg)
-
-## SilverBox3 - Blue
-Download: [abl32-skin-silverbox3-blue.zip](abl32-skin-silverbox3-blue.zip)
-![preview](img/abl32-skin-silverbox3-blue.jpg)
+## SilverRack
+Download: [ABL3-SilverBox-3.zip](ABL3-SilverBox-3.zip)
+![preview](abl3-silverbox-3-preview.jpg)
 
