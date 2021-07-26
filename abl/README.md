@@ -9,7 +9,7 @@ Instructions:
 2.Copy the .abl3skin file and the folder found in the zip-file to the ABL installation folder.
 
 On Windows the ABL3 installation folder is:
-c:\Users\<username>\Documents\AudioRealism\ABL3
+c:\Users\your-user-name\Documents\AudioRealism\ABL3
 
 On MacOs the default library path is:
 /Library/Application Support/AudioRealism/ABL3/
