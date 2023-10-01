@@ -25,19 +25,14 @@ Download: [ABL3-Sr2.zip](ABL3-Sr2.zip)
 Download: [ABL3-Sr2d.zip](ABL3-Sr2d.zip)
 ![preview](abl3-sr2d-preview.jpg)
 
-## SilverBox-1
-Download: [ABL3-SilverBox-1.zip](ABL3-SilverBox-1.zip)
-![preview](abl3-silverbox-1-preview.jpg)
-
 ## SilverBox-2
 Download: [ABL3-SilverBox-2.zip](ABL3-SilverBox-2.zip)
 ![preview](abl3-silverbox-2-preview.jpg)
 
+## SilverBox-1
+Download: [ABL3-SilverBox-1.zip](ABL3-SilverBox-1.zip)
+![preview](abl3-silverbox-1-preview.jpg)
+
 ## SilverBox-3
 Download: [ABL3-SilverBox-3.zip](ABL3-SilverBox-3.zip)
 ![preview](abl3-silverbox-3-preview.jpg)
-
-## SilverRack
-Download: [ABL3-SilverRack.zip](ABL3-SilverRack.zip)
-![preview](abl3-silverRack-preview.jpg)
-
