@@ -1,12 +1,20 @@
 # Microtonic skins
 
-The resources that used to be here are moved to a github repository setup by the good people 
-over at sonic charge: [fredli74/microtonic-skins](https://github.com/fredli74/microtonic-skins).
+This is a set of skins for Sonic Charge Microtonic version 3.3.3. They are also available as a package called "Microtonic Skins 2022.11.25" over at https://soniccharge.com/download 
 
-Previews of the skins:
 
 ## tonica
-![preview](tonica_preview.jpg)
+Download: [tonica.zip](tonica.zip)
+![preview](tonica_preview.png)
 
 ## dark0ne
-![preview](dark0ne_preview.jpg)
+Download: [dark0ne.zip](dark0ne.zip)
+![preview](dark0ne_preview.png)
+
+## silverbox
+Download: [silverbox.zip](silverbox.zip)
+![preview](silverbox_preview.png)
+
+## silverbox2
+Download: [silberbox2.zip](silberbox2.zip)
+![preview](silverbox2_preview.png)
