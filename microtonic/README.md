@@ -15,5 +15,5 @@ Download: [silverbox.zip](silverbox.zip)
 ![preview](silverbox-preview.jpg)
 
 ## silverbox2
-Download: [silberbox2.zip](silberbox2.zip)
+Download: [silverbox2.zip](silverbox2.zip)
 ![preview](silverbox2-preview.jpg)
