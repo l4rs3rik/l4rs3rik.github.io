@@ -2,4 +2,4 @@
 
 ## Greyone
 Download: [greyone.zip](greyone.zip)
-![preview](greyone-preview.png)
+![preview](greyone-preview.jpg)
