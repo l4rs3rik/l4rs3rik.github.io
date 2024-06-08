@@ -6,6 +6,10 @@ This is a set of skins for Sonic Charge Microtonic version 3.3.3. They are also 
 Download: [tonica.zip](tonicA.zip)
 ![preview](tonicA-preview.jpg)
 
+## tonica mk2
+Download: [tonica-mk2.zip](tonicA-mk2.zip)
+![preview](tonicA-mk2-preview.jpg)
+
 ## dark0ne
 Download: [dark0ne.zip](dark0ne.zip)
 ![preview](dark0ne-preview.jpg)
