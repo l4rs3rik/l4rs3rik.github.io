@@ -1,6 +1,6 @@
 # Microtonic skins
 
-This is a set of skins for Sonic Charge Microtonic version 3.3.3. They are also available as a package called "Microtonic Skins 2022.11.25" over at https://soniccharge.com/download 
+This is a set of skins for Sonic Charge Microtonic version 3.3.3. Some are also available as a package called "Microtonic Skins 2022.11.25" over at https://soniccharge.com/download 
 
 ## tonica
 Download: [tonica.zip](tonicA.zip)
